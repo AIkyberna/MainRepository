@@ -1,0 +1,15 @@
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\bin\Debug\net10.0\MainGUI.exe
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\bin\Debug\net10.0\MainGUI.deps.json
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\bin\Debug\net10.0\MainGUI.runtimeconfig.json
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\bin\Debug\net10.0\MainGUI.dll
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\bin\Debug\net10.0\MainGUI.pdb
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\obj\Debug\net10.0\MainGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\obj\Debug\net10.0\MainGUI.AssemblyInfoInputs.cache
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\obj\Debug\net10.0\MainGUI.AssemblyInfo.cs
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\obj\Debug\net10.0\MainGUI.csproj.CoreCompileInputs.cache
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\obj\Debug\net10.0\MainGUI.sourcelink.json
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\obj\Debug\net10.0\MainGUI.dll
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\obj\Debug\net10.0\refint\MainGUI.dll
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\obj\Debug\net10.0\MainGUI.pdb
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\obj\Debug\net10.0\MainGUI.genruntimeconfig.cache
+C:\Users\kirit\Documents\GitHub\MainRepository\srcGUI\MainGUI\obj\Debug\net10.0\ref\MainGUI.dll
