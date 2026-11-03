@@ -1,0 +1,6 @@
+ИИ 
+$env:OLLAMA_LLM_LIBRARY = "cpu"
+$env:CUDA_VISIBLE_DEVICES = "-1"
+$env:GGML_VULKAN = "0"
+ollama serve 
+надо ждать пока загрузится
